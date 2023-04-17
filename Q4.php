@@ -6,10 +6,10 @@
   <body>
     <div>요구값을 입력하세요.</div>
     <form action="" method="post">
-   width :  <input type="text" name="wid" placeholder="Enter id here"><br>
-   height : <input type="text" name="hei" placeholder="Enter age here"><br>
-   radius : <input type="text" name="rad" placeholder="Enter age here"><br>
-   length : <input type="text" name="len" placeholder="Enter age here"><br>
+   width :  <input type="text" name="wid" placeholder="Enter width here"><br>
+   height : <input type="text" name="hei" placeholder="Enter height here"><br>
+   radius : <input type="text" name="rad" placeholder="Enter radius here"><br>
+   length : <input type="text" name="len" placeholder="Enter length here"><br>
       <input type="submit" name="submit" value="Submit"><br>
     </form>
     <?php
